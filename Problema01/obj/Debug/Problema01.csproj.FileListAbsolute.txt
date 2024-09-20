@@ -1,0 +1,7 @@
+C:\ProblemasPOO\ejercicios\Problema01\bin\Debug\Problema01.exe.config
+C:\ProblemasPOO\ejercicios\Problema01\bin\Debug\Problema01.exe
+C:\ProblemasPOO\ejercicios\Problema01\bin\Debug\Problema01.pdb
+C:\ProblemasPOO\ejercicios\Problema01\obj\Debug\Problema01.csproj.AssemblyReference.cache
+C:\ProblemasPOO\ejercicios\Problema01\obj\Debug\Problema01.csproj.CoreCompileInputs.cache
+C:\ProblemasPOO\ejercicios\Problema01\obj\Debug\Problema01.exe
+C:\ProblemasPOO\ejercicios\Problema01\obj\Debug\Problema01.pdb

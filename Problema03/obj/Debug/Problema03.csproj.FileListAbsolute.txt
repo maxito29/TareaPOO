@@ -1,0 +1,7 @@
+C:\Users\maxlo\Downloads\Tarea C#\Tareas\Problema03\bin\Debug\Problema03.exe.config
+C:\Users\maxlo\Downloads\Tarea C#\Tareas\Problema03\bin\Debug\Problema03.exe
+C:\Users\maxlo\Downloads\Tarea C#\Tareas\Problema03\bin\Debug\Problema03.pdb
+C:\Users\maxlo\Downloads\Tarea C#\Tareas\Problema03\obj\Debug\Problema03.csproj.AssemblyReference.cache
+C:\Users\maxlo\Downloads\Tarea C#\Tareas\Problema03\obj\Debug\Problema03.csproj.CoreCompileInputs.cache
+C:\Users\maxlo\Downloads\Tarea C#\Tareas\Problema03\obj\Debug\Problema03.exe
+C:\Users\maxlo\Downloads\Tarea C#\Tareas\Problema03\obj\Debug\Problema03.pdb
